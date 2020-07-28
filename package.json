@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
         "eslint": "./node_modules/eslint/bin/eslint.js . --ext .js --fix",
-        "test": "./node_modules/.bin/mocha"
+        "test": "echo \"Test need to be implement\""
     },
     "repository": {
         "type": "git",
