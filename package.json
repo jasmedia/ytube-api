@@ -1,0 +1,37 @@
+{
+    "name": "ytube-api",
+    "version": "1.0.0",
+    "description": "YouTube API v3 implementation for NodeJS ",
+    "main": "index.js",
+    "scripts": {
+        "eslint": "./node_modules/eslint/bin/eslint.js . --ext .js --fix",
+        "test": "./node_modules/.bin/mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jasmedia/ytube-api.git"
+    },
+    "keywords": [
+        "youtube",
+        "npm",
+        "videos",
+        "api",
+        "v3"
+    ],
+    "devDependencies": {
+        "eslint": "^6.8.0",
+        "eslint-config-airbnb-base": "^14.1.0",
+        "eslint-plugin-import": "^2.20.2",
+        "mocha": "^3.4.2",
+        "should": "^4.3.0"
+    },
+    "author": "Jaseem <jasmedia.jas@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jasmedia/ytube-api/issues"
+    },
+    "homepage": "https://github.com/jasmedia/ytube-api#readme",
+    "dependencies": {
+        "got": "^11.5.1"
+    }
+}
