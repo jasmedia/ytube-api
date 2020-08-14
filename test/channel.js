@@ -5,7 +5,7 @@ const YouTube = require('../lib/ytube');
 
 
 const youTube = new YouTube();
-youTube.setKey(config.key);
+youTube.setKey(process.env.YOUTUBE_API_KEY);
 const channelIds = [
     "UC_x5XG1OV2P6uZZ5FSM9Ttw",
     "UC29ju8bIPH5as8OGnQzwJyA"
