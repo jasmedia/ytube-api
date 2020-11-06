@@ -1,6 +1,6 @@
 {
     "name": "ytube-api",
-    "version": "1.4.2",
+    "version": "1.4.3",
     "description": "YouTube API v3 implementation for NodeJS ",
     "main": "index.js",
     "scripts": {
