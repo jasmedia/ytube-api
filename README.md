@@ -1,4 +1,9 @@
 # ytube-api
+
+[![Version](https://img.shields.io/npm/v/ytube-api.svg)](https://www.npmjs.com/package/youtube-api) [![Downloads](https://img.shields.io/npm/dt/ytube-api.svg)](https://www.npmjs.com/package/youtube-api) [![PayPal][badge_paypal_donate]][paypal-donations]
+
+<a href="https://www.buymeacoffee.com/B6ALpqT" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
+
 YouTube API v3 implementation for NodeJS
 
 #### **Requirement**
@@ -77,3 +82,8 @@ The [official Youtube documentation](https://developers.google.com/youtube/v3/do
 ### Help
 
  * For bug reports and feature requests, open [issues](https://github.com/jasmedia/ytube-api/issues). 
+
+
+[badge_paypal_donate]: https://jasmedia.github.io/images/paypalbadge.svg
+
+[paypal-donations]: https://paypal.me/jaseemjas?locale.x=en_GB
