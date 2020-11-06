@@ -83,6 +83,13 @@ The [official Youtube documentation](https://developers.google.com/youtube/v3/do
 
  * For bug reports and feature requests, open [issues](https://github.com/jasmedia/ytube-api/issues). 
 
+### License
+
+[Apache-2.0][license] © [Jasmedia][twitter]
+
+[license]: /LICENSE
+[twitter]: https://twitter.com/jasmedia
+
 
 [badge_paypal_donate]: https://jasmedia.github.io/images/paypalbadge.svg
 
