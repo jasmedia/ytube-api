@@ -32,7 +32,7 @@
     },
     "homepage": "https://github.com/jasmedia/ytube-api#readme",
     "dependencies": {
-        "got": "^11.8.0"
+        "got": "^12.5.3"
     },
     "publishConfig": {
         "registry": "https://registry.npmjs.org/"
